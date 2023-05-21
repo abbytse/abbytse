@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abbytse
-- 👀 I’m interested in entrepreneurship
-- 🌱 I’m currently learning web3, JavaScript, AI/ML
-- 💞️ I’m looking to collaborate on anything fun!
+- 🌱 I’m interested in entrepreneurship and I’m currently learning AI/ML
 - 📫 How to reach me https://www.linkedin.com/in/abby-tse/
 
 <!---
