@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbytse
-- 🌱 I’m interested in entrepreneurship and I’m currently learning AI/ML
+- 🌱 I run the [PyData NYC](https://www.meetup.com/pydatanyc/) meetups and conferences as well as various other events in NYC
 - 📫 How to reach me https://www.linkedin.com/in/abby-tse/
 
 <!---
